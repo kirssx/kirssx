@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kirssx
 - 👀 I’m interested in learn about a little all.
 - 🌱 I’m currently learning to program in javascript and py.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? You can reach me for my email: ortegakirsteen@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
